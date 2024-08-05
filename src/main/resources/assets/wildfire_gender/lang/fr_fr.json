@@ -4,12 +4,12 @@
 
 	"wildfire_gender.player_list.title": "Female Gender Mod",
 	"wildfire_gender.player_list.settings_button": "Paramètres",
-	"wildfire_gender.player_list.sync_status": "Sync Statut",
+	"wildfire_gender.player_list.sync_status": "Syncronisation des statuts",
 	"wildfire_gender.player_list.state.loading": "Chargement des Données...",
-	"wildfire_gender.player_list.state.synced": "Joueur Synchronisé",
+	"wildfire_gender.player_list.state.synced": "Joueurs Synchronisés!",
 	"wildfire_gender.player_list.bounce_multiplier": "Multiplicateur de Rebond: %s%",
 	"wildfire_gender.player_list.breast_momentum": "Élan de la Poitrine: %s%%",
-	"wildfire_gender.player_list.female_sounds": "Sons Féminins: %s",
+	"wildfire_gender.player_list.female_sounds": "Sons féminins: %s",
 
 	"wildfire_gender.wardrobe.title": "Menu de Personnalisation",
 	"wildfire_gender.wardrobe.slider.breast_size": "Taille de la Poitrine: %s%%",
@@ -19,11 +19,11 @@
 	"wildfire_gender.wardrobe.slider.rotation": "Rotation: %s degrés",
 
 	"wildfire_gender.appearance_settings.title": "Paramètres d'Apparence",
-	"wildfire_gender.char_settings.title": "Paramètres de Personnage",
+	"wildfire_gender.char_settings.title": "Paramètres du Personnage",
 	"wildfire_gender.char_settings.physics": "Physiques de la Poitrine: %s",
-	"wildfire_gender.char_settings.hide_in_armor": "Cacher dans l'Armure: %s",
-	"wildfire_gender.char_settings.hurt_sounds": "Sons Blessés Féminins: %s",
-	"wildfire_gender.tooltip.hurt_sounds": "Active les Sons Blessés Féminins",
+	"wildfire_gender.char_settings.hide_in_armor": "Cacher la poitrine dans l'armure: %s",
+	"wildfire_gender.char_settings.hurt_sounds": "Sons de Douleur Féminins: %s",
+	"wildfire_gender.tooltip.hurt_sounds": "Active les Sons de Douleur Féminins",
 
 	"wildfire_gender.breast_customization.dual_physics": "Double-Physiques: %s",
 
@@ -40,9 +40,9 @@
 
 	"wildfire_gender.slider.bounce": "Intensité de Rebond: %s%%",
 	"wildfire_gender.slider.floppy": "Élan de la Poitrine: %s%%",
-	"wildfire_gender.slider.min_bounce": "Pourquoi Activer la Physique?",
-	"wildfire_gender.slider.max_bounce": "Anime Breast Physics!!!",
-	"wildfire_gender.tooltip.bounce_warning": "Mettre 'Intensité de Rebond' sur une valeur élevée aura pas l'air naturel!",
+	"wildfire_gender.slider.min_bounce": "Pourquoi activer la physique, alors?",
+	"wildfire_gender.slider.max_bounce": "Physique d'animé!!!",
+	"wildfire_gender.tooltip.bounce_warning": "Lorsque l'intensité du rebond est élevée, cela peut sembler innaturel!",
 
 	"wildfire_gender.cancer_awareness.title": "Hey, c'est le Mois de la Sensibilisation au Cancer du Sein!"
 }
