@@ -6,6 +6,33 @@
 
 	"wildfire_gender.armor.tooltip": "+%s Soutien de la poitrine",
 
+	"wildfire_gender.uv_editor": "Editeur de la poitrine",
+	"wildfire_gender.uv_editor.reset_defaults_all": "Réinitialiser tous les UV par défaut",
+	"wildfire_gender.uv_editor.reset_defaults": "Réinitialiser les UV par défaut",
+	"wildfire_gender.uv_editor.no_face_selected": "Sélectionnez une face de texture à gauche pour l'éditer.",
+	"wildfire_gender.uv_editor.selection.left_breast": "Gauche",
+	"wildfire_gender.uv_editor.selection.right_breast": "Droite",
+	"wildfire_gender.uv_editor.selection.left_breast_overlay": "Gauche",
+	"wildfire_gender.uv_editor.selection.right_breast_overlay": "Droite",
+
+	"wildfire_gender.uv_editor.selection.layer_body": "Corps",
+	"wildfire_gender.uv_editor.selection.layer_jacket": "Couche de texture",
+
+	"wildfire_gender.uv_editor.xpos": "Pos. X",
+	"wildfire_gender.uv_editor.ypos": "Pos. Y",
+    "wildfire_gender.uv_editor.width": "Largeur",
+	"wildfire_gender.uv_editor.height": "Hauteur",
+	"wildfire_gender.uv_editor.increment_tip.line1": "Maintenez SHIFT pour +10",
+	"wildfire_gender.uv_editor.increment_tip.line2": "SHIFT+CTRL pour +20",
+    "wildfire_gender.uv_editor.add": "Ajouter",
+    "wildfire_gender.uv_editor.remove": "Supprimer",
+
+	"wildfire_gender.uv_editor.faces.inner": "Face intérieure",
+	"wildfire_gender.uv_editor.faces.outer": "Face extérieure",
+	"wildfire_gender.uv_editor.faces.top": "Face supérieure",
+	"wildfire_gender.uv_editor.faces.bottom": "Face inférieure",
+	"wildfire_gender.uv_editor.faces.front": "Face avant",
+
 	"wildfire_gender.credits.title": "Crédits du Mod",
 	"wildfire_gender.credits.description": "Ceci est une liste des personnes formidables qui ont rendu ce mod possible!",
 	"wildfire_gender.credits.general": "Général",
@@ -98,7 +125,7 @@
 	"wildfire_gender.cloud.automatic.tooltip.line1": "Si activé, votre configuration sera automatiquement synchronisée avec le cloud après toute modification.",
 	"wildfire_gender.cloud.automatic.tooltip.line2": "Vous pouvez toujours synchroniser manuellement avec le bouton ci-dessous si cela est désactivé.",
 	
-	"wildfire_gender.cloud.sync": "Synchroniser maintenant",
+	"wildfire_gender.cloud.sync": "Synchroniser",
 	"wildfire_gender.cloud.syncing": "Synchronisation...",
 	"wildfire_gender.cloud.syncing.success": "Synchronisé",
 	"wildfire_gender.cloud.syncing.fail": "Synchronisation échouée",
